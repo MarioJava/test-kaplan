@@ -14,3 +14,5 @@ public class StringSplit {
         System.out.println("total: " + count);
     }
 }
+
+// R: total: 8

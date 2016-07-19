@@ -19,3 +19,5 @@ public class MyPatterrn {
         }
     }
 }
+
+// R: Found value: 2012
